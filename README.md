@@ -5,3 +5,7 @@ This is a project I am currently developing to help me win a sumo robot competit
 <img src="sumo 1.PNG"
      alt="Sumo Robot Assembled"
      style="float: left; margin-right: 10px;" />
+     
+<img src="sumo 2.PNG"
+     alt="Sumo Robot Exploded"
+     style="float: left; margin-right: 10px;" />
