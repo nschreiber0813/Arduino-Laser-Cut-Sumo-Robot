@@ -10,6 +10,14 @@ This is a project I am currently developing to help me win a sumo robot competit
      alt="Sumo Robot Exploded"
      style="float: left; margin-right: 10px;" />
      
+#BOM
+<a href="https://www.pololu.com/product/1119">2 Pololu Motors</a>
+
+Arduino Nano GPIO Shield
+
+Arduino Nano
+
+L298n Motor Driver
      
 # Code
 
