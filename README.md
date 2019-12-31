@@ -10,6 +10,8 @@ This is a project I am currently developing to help me win a sumo robot competit
      alt="Sumo Robot Exploded"
      style="float: left; margin-right: 10px;" />
      
+     https://www.dropbox.com/home?preview=File+from+iOS+(33).MOV
+     
 # BOM
 <a href="https://www.pololu.com/product/1119">2 Pololu Motors</a>
 
