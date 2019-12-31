@@ -10,7 +10,7 @@ This is a project I am currently developing to help me win a sumo robot competit
      alt="Sumo Robot Exploded"
      style="float: left; margin-right: 10px;" />
      
-#BOM
+# BOM
 <a href="https://www.pololu.com/product/1119">2 Pololu Motors</a>
 
 Arduino Nano GPIO Shield
@@ -18,7 +18,24 @@ Arduino Nano GPIO Shield
 Arduino Nano
 
 L298n Motor Driver
-     
+
+2 Side Panels
+
+1 Front panel
+
+1 back panel
+
+1 bottom panel
+
+2 Motor Mounts
+
+1 Top panel
+
+Toggle Switch
+
+M3 Nuts and Bolts
+
+
 # Code
 
 <pre>
